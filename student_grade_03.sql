@@ -6,6 +6,7 @@
 --
 -- Resources:
 -- ordered-set aggregates: https://github.com/michaelpq/michaelpq.github.io/blob/master/_posts/2014-02-27-postgres-9-4-feature-highlight-within-group.markdown
+-- comnon table expression: https://www.postgresql.org/docs/current/static/queries-with.html
 --
 
 --
