@@ -11,3 +11,7 @@
 1. create table structure
 2. stub some fake data
 3. query: list students on the top 10 percentile
+
+### Understand explain
+1. create table structure
+2. explain cases
